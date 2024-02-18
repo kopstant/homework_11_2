@@ -1,8 +1,8 @@
 def upper_text():
     """Делает заглавными буквами весь введеный текст"""
     string = input()
-    str_upper = string.upper()
-    print(str_upper)
+    str_upperrr = string.upper()
+    print(str_upperrr)
 
 upper_text()
 
